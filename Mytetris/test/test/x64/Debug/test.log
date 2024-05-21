@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\soft\C++\sfm\Mytetris\test\test\GameEngine.h(2,9): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\soft\C++\sfm\Mytetris\test\test\GameEngine.h(3,9): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  test.vcxproj -> D:\soft\C++\sfm\Mytetris\test\x64\Debug\test.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
